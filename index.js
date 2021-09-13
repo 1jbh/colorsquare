@@ -1,5 +1,5 @@
-function colorbox(options) {
-  let boxes = document.querySelectorAll("");
+function colorsquare(options) {
+  let boxes = document.querySelectorAll("colorsquare");
 
   width = options.boxWidth;
 
@@ -14,4 +14,4 @@ function colorbox(options) {
   });
 }
 
-module.exports.colorbox = colorbox;
+module.exports.colorsquare = colorsquare;

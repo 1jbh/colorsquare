@@ -1,11 +1,19 @@
 {
-  "name": "npm-test",
+  "name": "colorbox",
   "version": "1.0.0",
-  "description": "",
+  "description": "make easy colored boxes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jbh",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panpour/colorbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/panpour/colorbox/issues"
+  },
+  "homepage": "https://github.com/panpour/colorbox#readme"
 }
